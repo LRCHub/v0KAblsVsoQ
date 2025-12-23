@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "ノアの方舟",
+  "base_artist": "イマニシ",
+  "createdAt": "2025-12-23T12:18:55.354873Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nobody reason~ノアの方舟",
+      "artist": "m.o.v.e",
+      "has_synced": true,
+      "path": "select/01_Nobody_reason~ノアの方舟_m.o.v.e.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nobody Reason ~ ノアの方舟",
+      "artist": "move",
+      "has_synced": false,
+      "path": "select/02_Nobody_Reason_~_ノアの方舟_move.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Nobody reason 〜ノアの方舟",
+      "artist": "m.o.v.e",
+      "has_synced": true,
+      "path": "select/03_Nobody_reason_〜ノアの方舟_m.o.v.e.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Nobody Reason ~ノアの方舟",
+      "artist": "M.o.v.e",
+      "has_synced": true,
+      "path": "select/04_Nobody_Reason_~ノアの方舟_M.o.v.e.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Nobody reason〜ノアの方舟",
+      "artist": "m.o.v.e",
+      "has_synced": false,
+      "path": "select/05_Nobody_reason〜ノアの方舟_m.o.v.e.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Nobody reason 〜ノアの方舟",
+      "artist": "m.o.v.e",
+      "has_synced": false,
+      "path": "select/06_Nobody_reason_〜ノアの方舟_m.o.v.e.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Nobody reason ～ ノアの方舟",
+      "artist": "m.o.v.e",
+      "has_synced": true,
+      "path": "select/07_Nobody_reason_~_ノアの方舟_m.o.v.e.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Nobody reason ～ ノアの方舟",
+      "artist": "m.o.v.e",
+      "has_synced": false,
+      "path": "select/08_Nobody_reason_~_ノアの方舟_m.o.v.e.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "anim.o.v.e Type D MIX (DIVE INTO STREAM × Noizy Tribe × DOGFIGHT × Nobody Reason〜ノアの方舟 × Gamble Rumble)",
+      "artist": "m.o.v.e",
+      "has_synced": false,
+      "path": "select/09_anim.o.v.e_Type_D_MIX_(DIVE_INTO_STREAM_×_Noizy_Tribe_×_DOGFIGHT_×_Nobody_Reason_m.o.v.e.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ノアの方舟",
+      "artist": "ハンバート ハンバート",
+      "has_synced": true,
+      "path": "select/10_ノアの方舟_ハンバート_ハンバート.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Nobody reason～ノアの方舟",
+      "artist": "m.o.v.e",
+      "has_synced": true,
+      "path": "select/11_Nobody_reason~ノアの方舟_m.o.v.e.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ノアの方舟",
+      "artist": "Humbert Humbert",
+      "has_synced": true,
+      "path": "select/12_ノアの方舟_Humbert_Humbert.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ノアの方舟",
+      "artist": "イマニシ",
+      "has_synced": false,
+      "path": "select/pl_01_ノアの方舟_イマニシ.txt"
+    }
+  ]
+}
